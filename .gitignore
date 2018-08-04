@@ -1,3 +1,16 @@
 /dataset
 /PyTorch/data
 /PyTorch/exercise/data
+/PyTorch/.idea
+/PyTorch/.ipynb_checkpoints
+/PyTorch/exercise/ckpt
+/PyTorch/exercise/.ipynb_checkpoints
+/TensorFlow/.idea
+/TensorFlow/my-exercise/CNN/MNIST_data
+/TensorFlow/my-exercise/RNN/.ipynb_checkpoints
+/TensorFlow/Question
+/TensorFlow/SungKim/.idea
+/TensorFlow/SungKim/Lab10/MNIST_data
+/TensorFlow/SungKim/Lab10/.idea
+/TensorFlow/SungKim/Lab11/*
+/TensorFlow/SungKim/Lab12/.ipynb_checkpoints
