@@ -46,12 +46,12 @@ if cuda:
 
 model.eval() # Set in evaluation mode
 
-print("Target input image folder:", opt.image_folder)
+# print("Target input image folder:", opt.image_folder)
 
 dataloader = DataLoader(ImageFolder(opt.image_folder, img_size=opt.img_size),
                         batch_size=opt.batch_size, shuffle=False, num_workers=opt.n_cpu)
 
-print("Dataloader length:", len(dataloader))
+# print("Dataloader length:", len(dataloader))
 
 classes = load_classes(opt.class_path) # Extracts class labels from file
 
