@@ -15,3 +15,12 @@
 /TensorFlow/SungKim/Lab11/*
 /TensorFlow/SungKim/Lab12/.ipynb_checkpoints
 /.idea
+/PyTorch/Mini Project/Image detection-YOLOv3/.idea
+
+*.pyc
+*.iml
+*.xml
+*.pth
+*.ckpt
+*.npz
+*.ppk
